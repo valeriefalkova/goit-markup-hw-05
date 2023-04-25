@@ -208,8 +208,8 @@ body{
   }
 /*HERO*/
 .hero-section{
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: auto;
+  margin-right: auto;
   background-color: var(--dark-color);
   padding-top: 188px;
   padding-bottom: 188px;
